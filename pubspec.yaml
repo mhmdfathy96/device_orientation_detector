@@ -2,7 +2,7 @@ name: device_orientation_detector
 description: >
   A Flutter plugin to detect device orientation changes using native sensors,  
   even when screen rotation is locked. No special permissions required.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/mhmdfathy96/device_orientation_detector
 homepage: https://github.com/mhmdfathy96/device_orientation_detector
 
@@ -38,7 +38,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.mindtocode.device_orientation_detector
+        package: org.mindtocode.device_orientation_detector
         pluginClass: DeviceOrientationDetectorPlugin
       ios:
         pluginClass: DeviceOrientationDetectorPlugin

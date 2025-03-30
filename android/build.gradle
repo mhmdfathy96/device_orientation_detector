@@ -1,4 +1,4 @@
-group = "com.mindtocode.device_orientation_detector"
+group = "org.mindtocode.device_orientation_detector"
 version = "1.0-SNAPSHOT"
 
 buildscript {
@@ -25,7 +25,7 @@ apply plugin: "com.android.library"
 apply plugin: "kotlin-android"
 
 android {
-    namespace = "com.mindtocode.device_orientation_detector"
+    namespace = "org.mindtocode.device_orientation_detector"
 
     compileSdk = 35
 
