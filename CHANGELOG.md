@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.1] - Updated Package Name & Example
+
+Changed
+
+🔄 Renamed Android package for better consistency.
+
+📝 Added an example app for easy implementation.
+
 ## [1.0.0] - Initial Release
 
 ### Added
