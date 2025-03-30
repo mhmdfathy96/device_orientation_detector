@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.2] - Updated Example
+
+Changed
+
+📝 Improved example app for better usability and clarity.
+
 ## [1.0.1] - Updated Package Name & Example
 
 Changed
