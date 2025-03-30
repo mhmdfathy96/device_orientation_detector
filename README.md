@@ -14,7 +14,7 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  device_orientation_detector: ^1.0.1
+  device_orientation_detector: ^1.0.3
 ```
 
 Then, run:
