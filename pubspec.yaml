@@ -1,6 +1,6 @@
 name: device_orientation_detector
 description: "A new Flutter plugin project."
-version: 1.0.0+1.00
+version: 1.0.0
 repository: https://github.com/mhmdfathy96/device_orientation_detector
 homepage: https://github.com/mhmdfathy96/device_orientation_detector
 
